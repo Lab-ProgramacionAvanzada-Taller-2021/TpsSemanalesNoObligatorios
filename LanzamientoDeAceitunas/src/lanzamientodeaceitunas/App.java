@@ -12,6 +12,8 @@ public class App {
 		
 		manager.escribirArchivo(partido.obtenerMejorR2());
 		
+		//pruebaaaa
+		
 	}
 
 	
